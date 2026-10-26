@@ -1,6 +1,6 @@
 {
   "name": "leb128-unsigned-encoder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Encodes and decodes unsigned little-endian base 128 variable-length integers used in WebAssembly and DWARF.",
   "type": "module",
   "main": "src/index.js",
